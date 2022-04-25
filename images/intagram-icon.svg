@@ -1,0 +1,8 @@
+<svg id="intagram-icon" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="13" cy="13" r="13" fill="#fff"/>
+  <g id="instagram_1_" data-name="instagram (1)" transform="translate(8 8)">
+    <g id="Group_5" data-name="Group 5">
+      <path id="Path_4" data-name="Path 4" d="M8.036,0H2.679A2.687,2.687,0,0,0,0,2.679V8.036a2.687,2.687,0,0,0,2.679,2.679H8.036a2.687,2.687,0,0,0,2.679-2.679V2.679A2.687,2.687,0,0,0,8.036,0ZM5.358,7.59A2.232,2.232,0,1,1,7.59,5.358,2.232,2.232,0,0,1,5.358,7.59Zm2.9-4.465a.67.67,0,1,1,.67-.67A.67.67,0,0,1,8.26,3.125Z" fill="#302e2f"/>
+    </g>
+  </g>
+</svg>
