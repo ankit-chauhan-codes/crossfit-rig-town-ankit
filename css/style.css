@@ -1,0 +1,27 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1220px;
+}
+
+.btn{
+    text-transform: uppercase;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.625;
+    padding: 20px 30px;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.primary-btn{
+    border: 3px solid #9E3136;
+    background-color: transparent;
+    color: #9E3136;
+}
