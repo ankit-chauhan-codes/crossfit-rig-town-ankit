@@ -105,3 +105,51 @@ html, body{
 /* home */
 
 
+/* about-us */
+#about-us{
+    padding-top: 250px;
+    padding-bottom: 250px;
+    background: url(../images/about-us-bg.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+#about-us h5{
+    font-family: acumin-pro-wide, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #2A2D74;
+    font-size: 20px;
+    line-height: 1.7;
+    text-transform: uppercase;
+    margin-left: 60px;
+}
+
+#about-us .about-border{
+    background-color: #2A2D74;
+    padding: 1px 5px;
+    max-width: 40px;
+    transform: translateY(-40px);
+    align-items: center;
+}
+
+#about-us h2{
+    font-family: acumin-pro-wide, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #181617;
+    font-size: 40px;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+
+#about-us p{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #5C5B5C;
+    font-size: 20px;
+    line-height: 1.7;
+    max-width: 89%;
+}
+/* about-us */
