@@ -5,7 +5,7 @@ html, body{
 }
 
 .container{
-    max-width: 1400px;
+    max-width: 1220px;
 }
 
 .btn{
@@ -65,10 +65,6 @@ html, body{
 .navbar{
     background: transparent;
     margin-bottom: -300px;
-}
-
-.navbar .navbar-brand{
-    margin-left: 70px;
 }
 
 .navbar .navbar-nav .nav-link{
