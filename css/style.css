@@ -46,6 +46,21 @@ html, body{
     padding: 15px 30px;
 }
 
+.third-btn{
+    border: 3px solid #FFFFFF;
+    background-color: transparent;
+    color: #FFFFFF;
+    padding: 15px 30px;
+}
+
+.third-btn:hover{
+    border: 3px solid #9E3136;
+    background-color: #9E3136;
+    color: #FFFFFF;
+    padding: 15px 30px;
+}
+
+
 /* nav */
 .navbar{
     background: transparent;
@@ -175,6 +190,41 @@ html, body{
 /* about-us */
 
 
+/* qualities */
+#qualities .card-body{
+    padding: 130px 90px; 
+    background-color: #181617;
+    transition: all 0.4s ease;
+    margin: 0;
+}
+
+#qualities .card-body:hover{
+    padding: 130px 90px; 
+    background: url(../images/4th-quarter-performance-bg-image.jpg) no-repeat center;
+    background-size: cover;
+    margin: 0;
+}
+
+#qualities h5{
+    font-family: acumin-pro-wide, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 22px;
+    line-height: 2.09;
+    text-transform: uppercase;
+}
+
+#qualities p{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #5C5B5C;
+    font-size: 20px;
+    line-height: 1.5;
+}
+/* qualities */
+
 
 /* cta */
 #cta{
@@ -223,77 +273,3 @@ html, body{
 }
 /* cta */
 
-
-/* testimonials */
-#testimonial{
-    padding-top: 120px;
-    padding-bottom: 120px;
-    background: url(../images/testimonial-bg-image.jpg) no-repeat center;
-    background-size: cover;
-    width: 100%;
-}
-
-#testimonial h5{
-    font-family: acumin-pro-wide, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    color: #5C5B5C;
-    font-size: 20px;
-    line-height: 1.7;
-    text-transform: uppercase;
-}
-
-#testimonial .testimonial-border{
-    background-color: #5C5B5C;
-    padding: 1px 5px;
-    max-width: 40px;
-    transform: translateY(-26px);
-    margin-left: 58%;
-}
-
-#testimonial .testimonial-border2{
-    background-color: #5C5B5C;
-    padding: 1px 5px;
-    max-width: 40px;
-    transform: translateY(-28px);
-    margin-left: 39%;
-}
-
-#testimonial h2{
-    font-family: acumin-pro-wide, sans-serif;
-    font-weight: 800;
-    font-style: normal;
-    color: #FFFFFF;
-    font-size: 40px;
-    line-height: 1.4;
-    text-transform: uppercase;
-}
-
-#testimonial p{
-    font-family: proxima-nova, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    color: #EEEEEE;
-    font-size: 28px;
-    line-height: 1.57;
-    max-width: 61%;
-    margin: auto;
-}
-
-#testimonial h6{
-    font-family: acumin-pro-wide, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    color: #FFFFFF;
-    font-size: 22px;
-    line-height: 2.09;
-}
-
-#testimonial .testimonial-image img{
-    width: 60px;
-    height: 60px;
-    border-radius: 100%;
-    object-fit: cover;
-}
-
-/* testimonials */
