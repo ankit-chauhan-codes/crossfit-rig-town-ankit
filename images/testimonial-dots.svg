@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="20" viewBox="0 0 66 20">
+  <g id="testimonial-dots" transform="translate(-784 -4152)">
+    <g id="active-hover" transform="translate(809 4154)" fill="rgba(158,49,54,0)" stroke="#9e3136" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="9" fill="none"/>
+    </g>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="5" cy="5" r="5" transform="translate(784 4157)" fill="#fff" opacity="0.3"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="5" cy="5" r="5" transform="translate(840 4157)" fill="#fff" opacity="0.3"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" cx="5" cy="5" r="5" transform="translate(812 4157)" fill="#fff" opacity="0.3"/>
+  </g>
+</svg>
