@@ -273,3 +273,84 @@ html, body{
 }
 /* cta */
 
+
+/* team */
+#team{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+#team h5{
+    font-family: acumin-pro-wide, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #2A2D74;
+    font-size: 20px;
+    line-height: 1.7;
+    text-transform: uppercase;
+}
+
+#team .team-border{
+    background-color: #2A2D74;
+    padding: 1px 5px;
+    max-width: 45px;
+    transform: translateY(-33px);
+    margin-left: 58%;
+}
+
+#team .team-border2{
+    background-color: #2A2D74;
+    padding: 1px 5px;
+    max-width: 45px;
+    transform: translateY(-35px);
+    margin-left: 39%;
+}
+
+#team h2{
+    font-family: acumin-pro-wide, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #181617;
+    font-size: 40px;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+
+#team p{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #5C5B5C;
+    font-size: 20px;
+    line-height: 1.6;
+    max-width: 58%;
+    margin: auto;
+}
+
+#team h6{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #5C5B5C;
+    font-size: 16px;
+    line-height: 1.625;
+    text-transform: uppercase;
+}
+
+#team h4{
+    font-family: acumin-pro-wide, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #181617;
+    font-size: 22px;
+    line-height: 2.09;
+    text-transform: uppercase;
+    transform: translateY(-15px);
+}
+
+#team img{
+    width: 100%;
+}
+/* team */
+
+
