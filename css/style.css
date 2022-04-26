@@ -5,7 +5,7 @@ html, body{
 }
 
 .container{
-    max-width: 1220px;
+    max-width: 1400px;
 }
 
 .btn{
@@ -24,6 +24,26 @@ html, body{
     border: 3px solid #9E3136;
     background-color: transparent;
     color: #9E3136;
+}
+
+.primary-btn:hover{
+    border: 3px solid #9E3136;
+    background-color: #2A2D74;
+    color: #FFFFFF;
+}
+
+.secondary-btn{
+    border: 3px solid #9E3136;
+    background-color: #9E3136;
+    color: #FFFFFF;
+    padding: 15px 30px;
+}
+
+.secondary-btn:hover{
+    border: 3px solid #9E3136;
+    background-color: transparent;
+    color: #9E3136;
+    padding: 15px 30px;
 }
 
 /* nav */
@@ -107,8 +127,8 @@ html, body{
 
 /* about-us */
 #about-us{
-    padding-top: 250px;
-    padding-bottom: 250px;
+    padding-top: 160px;
+    padding-bottom: 160px;
     background: url(../images/about-us-bg.jpg) no-repeat center;
     background-size: cover;
     width: 100%;
@@ -150,6 +170,7 @@ html, body{
     color: #5C5B5C;
     font-size: 20px;
     line-height: 1.7;
-    max-width: 89%;
+    max-width: 68%;
 }
 /* about-us */
+
