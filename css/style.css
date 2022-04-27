@@ -80,8 +80,6 @@ html, body{
     text-transform: uppercase;
     border: none;
     border-bottom: 4px solid transparent;
-    padding:  5px 5px;
-    margin: 0px 16px;
 }
 
 .navbar .navbar-nav .nav-link:hover,
