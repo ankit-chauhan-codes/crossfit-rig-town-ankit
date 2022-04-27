@@ -150,7 +150,7 @@ html, body{
     font-family: acumin-pro-wide, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #2A2D74;
+    color: #A6A7BC;
     font-size: 20px;
     line-height: 1.7;
     text-transform: uppercase;
@@ -158,7 +158,7 @@ html, body{
 }
 
 #about-us .about-border{
-    background-color: #2A2D74;
+    background-color: #A6A7BC;
     padding: 1px 5px;
     max-width: 40px;
     transform: translateY(-40px);
@@ -216,7 +216,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #5C5B5C;
+    color: #BABABA;
     font-size: 20px;
     line-height: 1.5;
     max-width: 98%;
@@ -252,7 +252,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 20px;
     line-height: 1.6;
     max-width: 89%;
@@ -262,7 +262,7 @@ html, body{
     font-family: acumin-pro-wide, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 18px;
     line-height: 1.77;
 }
@@ -289,14 +289,14 @@ html, body{
     font-family: acumin-pro-wide, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #2A2D74;
+    color: #A6A7BC;
     font-size: 20px;
     line-height: 1.7;
     text-transform: uppercase;
 }
 
 #team .team-border{
-    background-color: #2A2D74;
+    background-color: #A6A7BC;
     padding: 1px 5px;
     max-width: 45px;
     transform: translateY(-33px);
@@ -304,7 +304,7 @@ html, body{
 }
 
 #team .team-border2{
-    background-color: #2A2D74;
+    background-color: #A6A7BC;
     padding: 1px 5px;
     max-width: 45px;
     transform: translateY(-35px);
@@ -372,26 +372,26 @@ html, body{
     font-family: acumin-pro-wide, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #5C5B5C;
+    color: #BABABA;
     font-size: 20px;
     line-height: 1.7;
     text-transform: uppercase;
 }
 
 #testimonial .testimonial-border{
-    background-color: #5C5B5C;
+    background-color: #BABABA;
     padding: 1px 5px;
     max-width: 40px;
-    transform: translateY(-26px);
-    margin-left: 58%;
+    transform: translateY(-25px);
+    margin-left: 59%;
 }
 
 #testimonial .testimonial-border2{
-    background-color: #5C5B5C;
+    background-color: #BABABA;
     padding: 1px 5px;
     max-width: 40px;
     transform: translateY(-28px);
-    margin-left: 39%;
+    margin-left: 38%;
 }
 
 #testimonial h2{
@@ -408,7 +408,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 28px;
     line-height: 1.57;
     max-width: 72%;
@@ -438,30 +438,31 @@ html, body{
     padding-top: 120px;
 }
 
-#instagram h5{
+#instagram a{
     font-family: acumin-pro-wide, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #2A2D74;
+    color: #A6A7BC;
     font-size: 20px;
     line-height: 1.7;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 #instagram .insta-border{
     background-color: #2A2D74;
     padding: 1px 5px;
     max-width: 45px;
-    transform: translateY(-33px);
-    margin-left: 60%;
+    transform: translateY(-1px);
+    margin-left: 61%;
 }
 
 #instagram .insta-border2{
     background-color: #2A2D74;
     padding: 1px 5px;
     max-width: 45px;
-    transform: translateY(-35px);
-    margin-left: 37%;
+    transform: translateY(-19px);
+    margin-left: 35%;
 }
 
 #instagram h2{
@@ -498,7 +499,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #EEEEEE;
+    color: #A6A7BC;
     font-size: 16px;
     line-height: 1.625;
     max-width: 85%;
@@ -522,7 +523,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 16px;
     line-height: 1.625;
     max-width: 85%;
@@ -541,7 +542,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 16px;
     line-height: 1.625;
 }
@@ -560,7 +561,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 800;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 16px;
     line-height: 1.625;
 }
@@ -569,7 +570,7 @@ html, body{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 16px;
     line-height: 1.625;
 }
@@ -577,14 +578,14 @@ html, body{
 #footer .footer-bottom{
     padding-top: 16px;
     padding-bottom: 16px;
-    background: #5C5B5C;
+    background: #302E2F;
 }
 
 #footer .footer-bottom p{
     font-family: proxima-nova, sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #EEEEEE;
+    color: #BABABA;
     font-size: 16px;
     line-height: 1.625;
 }
