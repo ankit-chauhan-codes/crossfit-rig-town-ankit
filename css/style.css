@@ -27,9 +27,9 @@ html, body{
 }
 
 .primary-btn:hover{
-    border: 3px solid #2A2D74;
-    background-color: #2A2D74;
-    color: #FFFFFF;
+    border: 3px solid #EEEEEE;
+    background-color: #EEEEEE;
+    color: #9E3136;
 }
 
 .secondary-btn{
@@ -42,7 +42,7 @@ html, body{
 .secondary-btn:hover{
     border: 3px solid #9E3136;
     background-color: transparent;
-    color: #9E3136;
+    color: #FFFFFF;
     padding: 15px 30px;
 }
 
@@ -255,6 +255,7 @@ html, body{
     color: #EEEEEE;
     font-size: 20px;
     line-height: 1.6;
+    max-width: 89%;
 }
 
 #cta h6{
